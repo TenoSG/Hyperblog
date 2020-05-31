@@ -1,4 +1,4 @@
-**Hyperblog soberbio**  :tw-1f411:
+**Hyperblog soberbio**  
 
 > This is more than a testing blog to use git.
 
