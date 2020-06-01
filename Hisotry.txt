@@ -14,3 +14,8 @@ Master 2
 Exp1
 
 Exp2
+<<<<<<< HEAD
+=======
+
+Master 1
+>>>>>>> 2e16344... add exp2
