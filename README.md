@@ -4,4 +4,10 @@
 
 [El dinero es dinero, aprende algo dinero.](https://platzi.com/ "El dinero es dinero, aprende algo dinero.")
 
+<<<<<<< HEAD
 ##Un gran poder conlleva una gran responsabilidad
+=======
+##Un gran poder conlleva una gran responsabilidad
+* lo veras cuando lo veas
+* El pasado puede doler, pero puedes o huir de él o aprender.
+>>>>>>> readme-mejorado
