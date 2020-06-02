@@ -6,3 +6,4 @@
 
 ##Un gran poder conlleva una gran responsabilidad
 * lo veras cuando lo veas
+* El pasado puede doler, pero puedes o huir de él o aprender.
