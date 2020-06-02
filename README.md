@@ -5,3 +5,4 @@
 [El dinero es dinero, aprende algo dinero.](https://platzi.com/ "El dinero es dinero, aprende algo dinero.")
 
 ##Un gran poder conlleva una gran responsabilidad
+* lo veras cuando lo veas
